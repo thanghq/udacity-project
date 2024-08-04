@@ -1,5 +1,6 @@
 # udacity-project
 
+[![Python application](https://github.com/thanghq/udacity-project/actions/workflows/main.yml/badge.svg)](https://github.com/thanghq/udacity-project/actions/workflows/main.yml)
 
 # Overview
 
