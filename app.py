@@ -35,6 +35,7 @@ def predict():
     except:
         LOG.info("JSON payload: %s json_payload")
         return "Model not loaded"
+        raise
 
     json_payload = request.json
     LOG.info("JSON payload: %s json_payload")
