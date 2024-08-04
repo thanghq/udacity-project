@@ -8,7 +8,7 @@ trigger:
 
 variables:
   ## Azure Resource Manager connection created during pipeline creation
-  azureServiceConnectionId: 'Udacity-user-265710'
+  azureServiceConnectionId: 'Uda-user-265749'
   
   ## Web app name
   webAppName: 'clarkflask'
