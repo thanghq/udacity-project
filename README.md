@@ -13,10 +13,10 @@ This project aims to predict housing prices using machine learning techniques. T
 
 ## Instructions
 
-<TODO:  
+Architectural: 
 * Architectural Diagram (Shows how key parts of the system work)>
 
-<TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
+How to start project:
 
 * Project running on Azure App Service
 ![image info](./pictures/project-running-in-app-service.png)
@@ -124,8 +124,11 @@ Port: 443
 > 
 
 ## Enhancements
-
-<TODO: A short description of how to improve the project in the future>
+TOBE Enhance in future: 
+* Add API for user to upload pricing data
+* Add feature to read data from multiple formats, ex: excel, json, text...
+* Add frontend for user to interact with API
+* Show prediction with insight in multiple formats (chart, table,...)
 
 ## Demo 
 
