@@ -55,10 +55,10 @@ stages:
       displayName: "Run Lint"
 
     - script: |
-      cd pictures
-      rm -r *.*
-    workingDirectory: $(projectRoot)
-    displayName: "Remove unnecessary files"
+        cd pictures
+        rm -r *.*
+      workingDirectory: $(projectRoot)
+      displayName: "Remove unnecessary files"
 
     - task: ArchiveFiles@2
       displayName: 'Archive files'
